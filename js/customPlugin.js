@@ -3,19 +3,20 @@
     var CustomPlugin = function($el, options) {
 
         this._defaults = {
-            randomizer: Math.random()
+            color: '#00d'
         };
 
+        // extend options with user provided ones
         this._options = $.extend(true, {}, this._defaults, options);
 
+        // public method for getting options
         this.options = function(options) {
-            return (options) ?
-                $.extend(true, this._options, options) :
-                this._options;
+            return (options) ? $.extend(true, this._options, options) : this._options;
         };
 
-        this.move = function() {
-            $el.css('margin-left', this._options.randomizer * 100);
+        // sample plugin's method
+        this.myMethod1 = function() {
+            $el.css('color', this._options.color);
         };
 
     };
