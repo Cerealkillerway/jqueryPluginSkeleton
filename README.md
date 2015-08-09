@@ -1,4 +1,4 @@
-(v0.0.0)
+(jqueryPluginSkeleton v0.0.0)
 (this repository is a possible skeleton to be used for jquery plugins creation; it is made following best practices guidelines; the following lines are the readme skeleton for the plugin to be created...)
 
 ## Custom Plugin v0.0.0
