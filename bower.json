@@ -1,10 +1,10 @@
 {
   "name": "customPlugin",
-  "version": "0.0.0",
+  "version": "1.0.1",
   "homepage": "https://github.com/...",
   "description": "short description",
   "keywords": [
-    "custom plugin",
+    "custom plugin"
   ],
   "authors": [
     "CK"

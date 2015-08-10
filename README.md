@@ -1,4 +1,4 @@
-(jqueryPluginSkeleton v0.0.0)
+(jqueryPluginSkeleton v1.0.1)
 
 ![JqueryPluginSkeleton](http://144.76.103.88/webforge_static/appLogos/jqueryPluginSkeleton.png)
 
