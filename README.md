@@ -1,4 +1,4 @@
-(jqueryPluginSkeleton v1.0.1)
+# (jqueryPluginSkeleton v1.0.1)
 
 ![JqueryPluginSkeleton](http://144.76.103.88/webforge_static/appLogos/jqueryPluginSkeleton.png)
 
@@ -71,6 +71,9 @@ Use --port option to serve it on another port; example:
 Available under <a href="http://opensource.org/licenses/MIT" target="_blank">MIT license</a>
 
 ##### History
+1.0.1
+-----
+- some bug fixes
 
 0.0.0
 ------
