@@ -1,6 +1,6 @@
 (jqueryPluginSkeleton v1.0.1)
 
-![JqueryPluginSkeleton](http://144.76.103.88/webforge_static/appLogos/jqueryPluginSkeletons.png)
+![JqueryPluginSkeleton](http://144.76.103.88/webforge_static/appLogos/jqueryPluginSkeleton.png)
 
 (this repository is a possible skeleton to be used for jquery plugins creation; it is made following best practices guidelines; the following lines are the readme skeleton for the plugin to be created...)
 
