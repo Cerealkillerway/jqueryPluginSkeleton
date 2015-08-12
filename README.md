@@ -11,7 +11,7 @@ LIVE DEMO: [CustomPlugin demo](http://)
 Short Description
 
 ### Usage
-Just call <b>customPlugin()</b> on any jquery element.<br>
+Just call **customPlugin()** on any jquery element.<br>
 Example:
 
      $('.customPlugin').customPlugin();
@@ -23,12 +23,12 @@ example with options:
     $('.customPlugin').customPlugin({options});
 
 ### Options
-<b>option1</b>: description1
+**option1**: description1
 
 #### Callbacks
 Together with the options object it is possible to define some callbacks:
 
-<b>callback1</b>: description1
+**callback1**: description1
 
 (example)
 
@@ -54,7 +54,7 @@ it is possible to override them or add a custom translation by defining it in "l
 
 ### Methods
 
-<b>method1</b>: description1
+**method1**: description1
 
 Example:
 
@@ -65,10 +65,10 @@ It is provided with livereload and sass version of stylesheet;
 use "grunt" to execute it and point your browser on "localhost:7000" (prerequisites: ruby, sass ("gem install sass"), grunt-cli, grunt and needed plugins ("npm install"), browser livereload extension);
 
 Use --port option to serve it on another port; example:
-<b>grunt --port=9000</b>
+**grunt --port=9000**
 
 ### License
-Available under <a href="http://opensource.org/licenses/MIT" target="_blank">MIT license</a>
+Available under <a href="http://opensource.org/licenses/MIT" target="_blank">MIT license</a> (also available in included **license.txt** file).
 
 ##### History
 1.0.1

@@ -1,3 +1,8 @@
+/*
+* customPlugin v0.0.0
+* available under MIT license
+* 
+* */
 (function($) {
 
     var CustomPlugin = function($el, options) {
