@@ -7,6 +7,7 @@
 ## Custom Plugin v0.0.0
 
 LIVE DEMO: [CustomPlugin demo](http://)
+(live demo can be outdated for a while; if live demo version is not the same of current plugin version, please use the included demo instead)
 
 Short Description
 
