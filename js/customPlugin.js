@@ -11,10 +11,10 @@
             color: '#00d'
         };
 
-        // extend options with user provided ones
+        // extend options with instance ones
         this._options = $.extend(true, {}, this._defaults, options);
 
-        // public method for getting options
+        // add more options
         this.options = function(options) {
             return (options) ? $.extend(true, this._options, options) : this._options;
         };
