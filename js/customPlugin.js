@@ -1,7 +1,6 @@
 /*
 * customPlugin v0.0.0
-* available under MIT license
-* 
+* Licensed under MIT (https://raw.githubusercontent.com/Cerealkillerway/jqueryPluginSkeleton/master/license.txt)
 * */
 (function($) {
 
