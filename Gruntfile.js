@@ -35,11 +35,20 @@ module.exports = function(grunt) {
                 ],
             }
         },
+        uglify: {
+            customPlugin: {
+                files: {
+                    'js/customPlugin.min.js': ['js/customPlugin.js']
+                }
+            }
+        }
     });
 
     grunt.loadNpmTasks('grunt-contrib-sass');
     grunt.loadNpmTasks('grunt-contrib-watch');
     grunt.loadNpmTasks('grunt-contrib-connect');
+    grunt.loadNpmTasks('grunt-contrib-uglify');
 
-    grunt.registerTask('default', ['connect', 'watch']);
+    grunt.registerTask('default', ['connect', 'sass', 'watch']);
+    grunt.registerTask('minify', ['uglify']);  // alias for grunt uglify
 };
